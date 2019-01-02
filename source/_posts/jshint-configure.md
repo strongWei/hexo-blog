@@ -1,11 +1,13 @@
 ---
 title: JSHint 配置
 tags:
-- js
-- vim
+  - js
+  - vim
 categories:
-- 工具
+  - 工具
+date: 2019-01-02 10:33:45
 ---
+
 JSHint主要用于对JavaScript代码的检验，配置上Syntastic在Vim的使用，可以实现对代码进行检查。  
 
 本文主要总结自己使用JSHint的经验，并不是介绍如何使用JSHint, [教程](https://jshint.com)在此。
