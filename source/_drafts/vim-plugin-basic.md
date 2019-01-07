@@ -53,6 +53,14 @@ let g:syntastic_check_on_wq = 0
 
 " - html
 let g:syntastic_html_checkers = ['htmlhint']
+
+" - js
+let g:syntastic_js_checkers = ['jshint']
+
+" - python
+let g:syntastic_python_checkers = ['python']
+" -- 使用python3必须用这个
+let g:syntastic_python_python_exec = '/usr/bin/python'
 ```
 
 ##### Experience
